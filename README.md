@@ -49,4 +49,4 @@ The application features a clean and minimal user interface:
 
 ## 📸 Screenshot
 
-![Image](https://github.com/user-attachments/assets/9f0dba47-31e2-4d5d-9549-a95f8708600d)
+![Image](https://github.com/user-attachments/assets/1fc7007f-62d0-4e2b-a57c-623f7aaed78b)
