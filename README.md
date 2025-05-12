@@ -17,11 +17,7 @@
 
 A responsive and interactive weather information web application built using **HTML**, **CSS**, and **JavaScript**. This project allows users to search for the current weather conditions of any city around the world.
 
-![App Screenshot](./Screenshot.png) <!-- Replace with actual image path or link -->
-
-## 🌐 Live Demo
-
-👉 *Coming soon or host on GitHub Pages / Netlify*
+![Image](https://github.com/user-attachments/assets/9f0dba47-31e2-4d5d-9549-a95f8708600d)
 
 ## 📌 Features
 
@@ -54,4 +50,4 @@ The application features a clean and minimal user interface:
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](./Screenshot.png) <!-- Update with actual path -->
+![Image](https://github.com/user-attachments/assets/9f0dba47-31e2-4d5d-9549-a95f8708600d)
